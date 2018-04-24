@@ -7,4 +7,5 @@ price of a customer’s order.
 There were still a couple of things that I would have prefered to have completed on this project before submission:
 
 *Automatically recognising the day of the week instead of relying on user input.
+
 *Adding restictions on tickets being purchased i.e. no children's tickets for a film rated 18.
